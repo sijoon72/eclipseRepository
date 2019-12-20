@@ -23,6 +23,8 @@ import kr.pe.myblog.team.service.TeaminfoService;
 // <context:component-scan base-package="kr.pe.myblog.front.controller" /> 추가 필요
 // @Controller 어노테이션 추가 필요. 	
 
+//// git 확인용 수정
+
 @Controller
 public class FrontController {
 	
